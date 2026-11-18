@@ -5,7 +5,7 @@ import {
   LocalPed,
   playerPed,
   requestAnimDict,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { HOOKS, type SleeperView } from "common/events";
 import { looks } from "./looks";
 import { hidden } from "./rules";

@@ -3,19 +3,19 @@ import {
   onClientCallback,
   onClientEvent,
   vehicleNearPlayer,
-} from "@aifivem/lib/server";
+} from "@aicore8/lib/server";
 import {
   distance,
   fail,
   oneArg,
   readId,
   readInt,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 import { EVENTS, MAX_LOOKS } from "common/events";
 import { content, livePed, pedCoords, worldPed } from "./content";
 import { looks } from "./looks";
 import { sleepers } from "./store";
-import { type ActionResult } from "@aifivem/shared";
+import { type ActionResult } from "@aicore8/shared";
 
 /** Client actions on sleeping bodies; every one is checked here (state, distance, seat) before memory changes. */
 

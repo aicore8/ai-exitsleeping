@@ -2,8 +2,8 @@ import {
   AdminPanel,
   entityCoords,
   resourceExport,
-} from "@aifivem/lib/server";
-import { createLogger, type ZoneShape } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { createLogger, type ZoneShape } from "@aicore8/lib/shared";
 import { ResourceName } from "common";
 import { readArea } from "common/areas";
 import { readSettings, type Settings } from "common/settings";

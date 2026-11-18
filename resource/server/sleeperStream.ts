@@ -1,4 +1,4 @@
-import { AreaStream } from "@aifivem/lib/server";
+import { AreaStream } from "@aicore8/lib/server";
 import { CELL, EVENTS, type SleeperView } from "common/events";
 import type { Sleeper } from "./sleeper";
 

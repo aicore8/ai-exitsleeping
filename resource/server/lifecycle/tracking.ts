@@ -1,5 +1,5 @@
-import { vehicleFromNet } from "@aifivem/lib/server";
-import { distance } from "@aifivem/lib/shared";
+import { vehicleFromNet } from "@aicore8/lib/server";
+import { distance } from "@aicore8/lib/shared";
 import { livePed, pedCoords } from "../content";
 import { sleepers } from "../store";
 

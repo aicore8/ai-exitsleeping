@@ -1,5 +1,5 @@
-import { appearance } from "@aifivem/lib/server";
-import type { CharacterAppearance } from "@aifivem/shared";
+import { appearance } from "@aicore8/lib/server";
+import type { CharacterAppearance } from "@aicore8/shared";
 
 /**
  * Saved looks of sleeping characters through ai-core's appearance layer (the clothing script owns them; nothing is

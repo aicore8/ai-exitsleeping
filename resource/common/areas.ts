@@ -6,7 +6,7 @@ import {
   zoneContains,
   type Vec3,
   type ZoneShape,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 
 /** Areas where no sleeping body is shown (`data/areas.json`, server only). No natives. */
 

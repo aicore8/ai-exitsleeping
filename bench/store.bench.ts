@@ -20,11 +20,11 @@ Object.assign(globalThis, {
   }),
 });
 
-const { AreaStream } = await import("@aifivem/lib/server");
+const { AreaStream } = await import("@aicore8/lib/server");
 const { Sleeper } = await import("server/sleeper");
 const { inAnyArea, readArea } = await import("common/areas");
 const { CELL } = await import("common/events");
-const { gridCell, readRecords } = await import("@aifivem/lib/shared");
+const { gridCell, readRecords } = await import("@aicore8/lib/shared");
 
 const time = (label: string, fn: () => void) => {
   const t = performance.now();

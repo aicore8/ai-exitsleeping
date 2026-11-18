@@ -1,5 +1,5 @@
-import { spec } from "@aifivem/lib/shared";
-import type { FileSpec, TabSpec } from "@aifivem/shared";
+import { spec } from "@aicore8/lib/shared";
+import type { FileSpec, TabSpec } from "@aicore8/shared";
 import { metres } from "./metres";
 
 export const areasFile: FileSpec = {
