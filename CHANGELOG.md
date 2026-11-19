@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/aicore8/ai-exitsleeping/compare/v0.1.5...v0.1.6) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([5b57533](https://github.com/aicore8/ai-exitsleeping/commit/5b57533cd9880b06704463baddfafadd238bee78))
+
 ## [0.1.5](https://github.com/aicore8/ai-exitsleeping/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
